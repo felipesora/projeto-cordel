@@ -100,16 +100,12 @@ footer{
     padding: 10px;
 }
 
-@media(max-width: 430px) {
+@media (max-width: 390px){
     section#img01{
-        background-position: center;
         background-attachment: scroll;
     }
 
     section#img02{
-        background-position: right center;
         background-attachment: scroll;
     }
-
-
 }
