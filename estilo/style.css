@@ -102,7 +102,7 @@ footer{
 
 @media(max-width: 430px) {
     section#img01{
-        background-position: right center;
+        background-position: center;
         background-attachment: scroll;
     }
 
@@ -111,5 +111,5 @@ footer{
         background-attachment: scroll;
     }
 
-    
+
 }
