@@ -100,10 +100,9 @@ footer{
     padding: 10px;
 }
 
-@media(max-width: 460px) {
+@media(max-width: 430px) {
     section#img01{
         background-position: right center;
-        background-size: cover;
         background-attachment: fixed;
     }
 
