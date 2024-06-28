@@ -99,3 +99,15 @@ footer{
     text-align: center;
     padding: 10px;
 }
+
+@media(max-width: 460px) {
+    section#img01{
+        background-size: cover;
+        background-attachment: fixed;
+    }
+
+    section#img02{
+        background-size: cover;
+        background-attachment: fixed;
+    }
+}
